@@ -1,7 +1,6 @@
-[![MasterHead](https://res.cloudinary.com/duxego3ja/image/upload/v1707667496/github-readme-profile/tvq5opowbi1zakeru8md.jpg)](https://github.com/ayoubhayda)
+[![MasterHead](https://res.cloudinary.com/duxego3ja/image/upload/v1707675569/github-readme-profile/tcm5uya1dy2cdkq7gnte.jpg)](https://github.com/ayoubhayda)
 <h1 align="center">Hi 👋, I'm Ayoub Hayda</h1>
-<h3 align="center">Full-Stack Web Developer</h3>
-<p align="center">I'm a passionate Full Stack Developer with advanced skills in both front-end and back-end development. My expertise lies in crafting robust web applications using a variety of technologies and frameworks.</p>
+<h3 align="center">I'm a passionate Full Stack Developer with advanced skills in both front-end and back-end development. My expertise lies in crafting robust web applications using a variety of technologies and frameworks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubhayda&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubhayda" /> </p>
 
