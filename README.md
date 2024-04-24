@@ -1,12 +1,10 @@
-[![MasterHead](https://res.cloudinary.com/duxego3ja/image/upload/v1707675569/github-readme-profile/tcm5uya1dy2cdkq7gnte.jpg)](https://github.com/ayoubhayda)
+![MasterHead](https://res.cloudinary.com/duxego3ja/image/upload/v1713971810/github-readme-profile/ylgjucsq77a2wgq5hfwh.jpg)
 
-<h1 align="center">Hi 👋, I'm Ayoub Hayda</h1>
+<h2 align="center">Hi 👋, I'm Ayoub Hayda</h2>
 
 <p>I'm a passionate full-stack web developer with a relentless drive for turning ideas into digital realities. My journey in the tech industry is fueled by a deep-rooted desire to create seamless user experiences and innovative solutions that leave a lasting impact. I thrive on tackling challenges head-on and pushing the boundaries of what's possible in web development.</p>
 
 <p>With a strong foundation in both frontend and backend development, I excel in crafting intuitive interfaces and robust backend systems that power modern web applications. My expertise spans across a wide range of technologies, enabling me to adapt quickly to new tools and frameworks.</p>
-
-<p>As a lifelong learner, I am deeply committed to continuous improvement and staying abreast of the latest trends and advancements in the ever-evolving tech landscape. Whether it's mastering a new programming paradigm, experimenting with emerging technologies, or refining my problem-solving skills, I approach each learning opportunity with enthusiasm and dedication.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubhayda&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubhayda" /> </p>
 
