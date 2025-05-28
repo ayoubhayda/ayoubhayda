@@ -1,10 +1,10 @@
 ![MasterHead](https://res.cloudinary.com/duxego3ja/image/upload/v1713971810/github-readme-profile/ylgjucsq77a2wgq5hfwh.jpg)
 
-<h2 align="center">Hi 👋, I'm Ayoub Hayda</h2>
+<h2 align="center">Hi 👋</h2>
 
-<p>I'm a passionate full-stack web developer with a relentless drive for turning ideas into digital realities. My journey in the tech industry is fueled by a deep-rooted desire to create seamless user experiences and innovative solutions that leave a lasting impact. I thrive on tackling challenges head-on and pushing the boundaries of what's possible in web development.</p>
+<p>I'm a full-stack web developer focused on building scalable, maintainable, and user-centric web applications. I specialize in both frontend and backend development, with solid experience in modern frameworks and tools.</p>
 
-<p>With a strong foundation in both frontend and backend development, I excel in crafting intuitive interfaces and robust backend systems that power modern web applications. My expertise spans across a wide range of technologies, enabling me to adapt quickly to new tools and frameworks.</p>
+<p>My work is driven by a clear understanding of technical requirements, usability, and performance. I approach problems with a practical mindset and enjoy delivering clean, efficient, and well-structured solutions across the stack.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayoubhayda&label=Profile%20views&color=0e75b6&style=flat" alt="ayoubhayda" /> </p>
 
@@ -13,15 +13,16 @@
 # 💫 About Me:
 
 ### 💼 Currently:
- - 🔭 I’m currently working on enhancing my portfolio website and contributing to open-source projects.<br>
- - 👯 I’m looking to collaborate on exciting web development projects where I can utilize my skills and learn from others.<br>
- - 🤝 I’m looking for help with optimizing performance in large-scale applications and mastering advanced algorithms.
+ - 🔭 Working on improving my portfolio and contributing to select open-source projects.<br>
+ - 👯 Open to collaboration on meaningful web development initiatives that offer technical growth and shared learning.<br>
+ - 🤝 Actively exploring performance optimization strategies for large-scale applications and studying advanced algorithms.
 
 ### 🌱 Currently Learning
- - 🌱 I’m currently diving deep into Next.js to build powerful and efficient React applications with server-side rendering.<br>
- strategies.<br>
- - 💬 Ask me about my experiences with Next.js or the challenges I'm facing while mastering the MERN stack.<br>
- - ⚡ Fun fact: I have a passion for exploring complex techniques in web development. I love unraveling intricate problems and finding elegant solutions that push the boundaries of what's possible!
+ - 🌱 I constantly explore modern web technologies and development patterns to stay current and build scalable,<br>
+ maintainable systems.<br>
+ - 💬 My learning is driven by real-world challenges—whether it's refining architecture, improving performance,
+ or adopting new tooling.<br>
+ - ⚡ I'm particularly interested in topics like edge computing, full-stack TypeScript, and advanced testing strategies.
 
 ## 🌐 Socials:
 <p align="left">
