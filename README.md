@@ -1,4 +1,4 @@
-![MasterHead](https://6sn8pk7mrd.ufs.sh/f/1T4FQGtliscoBoPJWbwOErsbqG29INY3u8ZjFnAacw5CQkXL)
+![MasterHead](https://6sn8pk7mrd.ufs.sh/f/1T4FQGtliscoxpUkPRf0VG97tIYWencpHZJC2orMqFz8PsO4)
 
 <p>I'm a full-stack web developer focused on building scalable, maintainable, and user-centric web applications. I specialize in both frontend and backend development, with solid experience in modern frameworks and tools.</p>
 
