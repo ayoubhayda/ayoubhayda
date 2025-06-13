@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/duxego3ja/image/upload/v1713971810/github-readme-profile/ylgjucsq77a2wgq5hfwh.jpg)
+![MasterHead](https://6sn8pk7mrd.ufs.sh/f/1T4FQGtliscoBoPJWbwOErsbqG29INY3u8ZjFnAacw5CQkXL)
 
 <p>I'm a full-stack web developer focused on building scalable, maintainable, and user-centric web applications. I specialize in both frontend and backend development, with solid experience in modern frameworks and tools.</p>
 
